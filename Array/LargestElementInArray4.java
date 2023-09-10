@@ -44,7 +44,7 @@ public class LargestElementInArray4 {
                 res=i;
             } 
         }
-         return res;
+         return arr[res];
     }
     
     public static void main(String[] args) {
